@@ -9,6 +9,7 @@ set -e # exit with nonzero exit code if anything fails
 cd site
 git init
 
+
 # Configure Git
 git config user.name "Marquis Hackett"
 git config user.email "marqhack@gmail.com"
